@@ -1,4 +1,5 @@
 To run application:
-1) npm init
-2) npm run dev
-3) go to http://localhost:8080/
+
+<p>1) npm init</p>
+<p>2) npm run dev</p>
+<p>3) go to http://localhost:8080/</p>
