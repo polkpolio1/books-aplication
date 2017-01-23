@@ -1,0 +1,256 @@
+body {
+    overflow-y: scroll;
+}
+
+.breadcrumb {
+    margin: 10px 0 20px;
+}
+
+.dropdown {
+    margin-bottom: 10px;
+}
+
+.navbar-inverse .navbar-nav>li>a.active {
+    color: #fff;
+    background-color: transparent;
+}
+
+.books-list {
+    position: relative;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.books-list:hover .hover-block {
+    opacity: 1;
+    visibility: visible;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.hover-block {
+    position: absolute;
+    padding: 0 15px 10px;
+    z-index: 2;
+    opacity: 0;
+    visibility: hidden;
+    width: 100%;
+    left: 0;
+    top: 0;
+    background-color: #FFF;
+    -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.75);
+}
+
+.hover-block h5 {
+    margin: 5px 0 0;
+}
+
+.books-list .img-wr {
+    box-sizing: border-box !important;
+    padding: 10px;
+    display: table;
+    width: 100%;
+    height: 320px;
+    text-align: center;
+}
+
+.books-list .img-wr .align {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.books-list .img-wr img {
+    width: auto;
+    max-width: 100%;
+    max-height: 300px;
+}
+
+.books-list a {
+    display: block;
+    margin: auto;
+}
+
+.books-list .book-title {
+    height: 40px;
+}
+
+.single-item img {
+    width: auto;
+    max-width: 100%;
+}
+
+.single-item h1 {
+    margin-top: 0;
+}
+
+footer {
+    border-top: 1px solid #999;
+    padding-top: 10px;
+    height: 100px;
+}
+
+/* preloader */
+.overlay-loader {
+    display: block;
+    margin: auto;
+    width: 97px;
+    height: 97px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
+.loader {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    width: 97px;
+    height: 97px;
+    animation-name: rotateAnim;
+        -o-animation-name: rotateAnim;
+        -ms-animation-name: rotateAnim;
+        -webkit-animation-name: rotateAnim;
+        -moz-animation-name: rotateAnim;
+    animation-duration: 0.4s;
+        -o-animation-duration: 0.4s;
+        -ms-animation-duration: 0.4s;
+        -webkit-animation-duration: 0.4s;
+        -moz-animation-duration: 0.4s;
+    animation-iteration-count: infinite;
+        -o-animation-iteration-count: infinite;
+        -ms-animation-iteration-count: infinite;
+        -webkit-animation-iteration-count: infinite;
+        -moz-animation-iteration-count: infinite;
+    animation-timing-function: linear;
+        -o-animation-timing-function: linear;
+        -ms-animation-timing-function: linear;
+        -webkit-animation-timing-function: linear;
+        -moz-animation-timing-function: linear;
+}
+.loader div {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    border: 1px solid rgb(0,0,0);
+    position: absolute;
+    top: 2px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+.loader div:nth-child(odd) {
+    border-top: none;
+    border-left: none;
+}
+.loader div:nth-child(even) {
+    border-bottom: none;
+    border-right: none;
+}
+.loader div:nth-child(2) {
+    border-width: 2px;
+    left: 0px;
+    top: -4px;
+    width: 12px;
+    height: 12px;
+}
+.loader div:nth-child(3) {
+    border-width: 2px;
+    left: -1px;
+    top: 3px;
+    width: 18px;
+    height: 18px;
+}
+.loader div:nth-child(4) {
+    border-width: 3px;
+    left: -1px;
+    top: -4px;
+    width: 23px;
+    height: 23px;
+}
+.loader div:nth-child(5) {
+    border-width: 3px;
+    left: -1px;
+    top: 4px;
+    width: 31px;
+    height: 31px;
+}
+.loader div:nth-child(6) {
+    border-width: 4px;
+    left: 0px;
+    top: -4px;
+    width: 39px;
+    height: 39px;
+}
+.loader div:nth-child(7) {
+    border-width: 4px;
+    left: 0px;
+    top: 6px;
+    width: 49px;
+    height: 49px;
+}
+
+
+@keyframes rotateAnim {
+    from {
+        transform: rotate(360deg);
+    }
+    to {
+        transform: rotate(0deg);
+    }
+}
+
+@-o-keyframes rotateAnim {
+    from {
+        -o-transform: rotate(360deg);
+    }
+    to {
+        -o-transform: rotate(0deg);
+    }
+}
+
+@-ms-keyframes rotateAnim {
+    from {
+        -ms-transform: rotate(360deg);
+    }
+    to {
+        -ms-transform: rotate(0deg);
+    }
+}
+
+@-webkit-keyframes rotateAnim {
+    from {
+        -webkit-transform: rotate(360deg);
+    }
+    to {
+        -webkit-transform: rotate(0deg);
+    }
+}
+
+@-moz-keyframes rotateAnim {
+    from {
+        -moz-transform: rotate(360deg);
+    }
+    to {
+        -moz-transform: rotate(0deg);
+    }
+}
+
+@media (max-width: 992px) { 
+    .hover-block {
+        position: static;
+        visibility: visible;
+        opacity: 1;
+        -webkit-box-shadow: none;
+        -moz-box-shadow: none;
+        box-shadow: none;
+    }
+    .visible-block{
+        display: none;
+    }
+}

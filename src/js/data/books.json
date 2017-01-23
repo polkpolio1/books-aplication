@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "name" : "Secrets of the Singer Girls",
+    "description": "<p>1942. Sixteen-year-old Poppy Percival turns up at the gates of Trout's clothing factory in Bethnal Green with no idea what her new life might have in store. There to start work as a seamstress and struggling to get to grips with the noise, dirt and devastation of East London, Poppy can't help but miss the quiet countryside of home. But Poppy harbours a dark secret - one that wrenched her away from all she knew and from which she is still suffering . . .</p><br><p>And Poppy's not the only one with a secret. Each of her new friends at the factory is hiding something painful. Vera Shadwell, the forelady, has had a hard life with scars both visible and concealed; her sister Daisy has romantic notions that could get her in trouble; and Sal Fowler, a hardworking mother who worries about her two evacuated boys for good reason. Bound by ties of friendship, loyalty and family, the devastating events of the war will throw each of their lives into turmoil but also bring these women closer to each other than they could ever have imagined.</p>",
+    "author_id": [1],
+    "photo_url": [
+      "img/books/51OFe6r-6QL.jpg"
+    ],
+    "genre": "novels"
+  },
+  {
+    "id": 2,
+    "name" : "Coders at Work: Reflections on the Craft of Programming",
+    "description": "<p>Peter Seibel interviews 15 of the most interesting computer programmers alive today in Coders at Work, offering a companion volume to Apress’s highly acclaimed best-seller Founders at Work by Jessica Livingston. As the words “at work” suggest, Peter Seibel focuses on how his interviewees tackle the day-to-day work of programming, while revealing much more, like how they became great programmers, how they recognize programming talent in others, and what kinds of problems they find most interesting.</p><p>Hundreds of people have suggested names of programmers to interview on the Coders at Work web site: www.codersatwork.com. The complete list was 284 names. Having digested everyone’s feedback, we selected 15 folks who’ve been kind enough to agree to be interviewed:</p><ul><li>Frances Allen: Pioneer in optimizing compilers, first woman to win the Turing Award (2006) and first female IBM fellow</li><li>Joe Armstrong: Inventor of Erlang</li><li>Joshua Bloch: Author of the Java collections framework, now at Google</li><li>Bernie Cosell: One of the main software guys behind the original ARPANET IMPs and a master debugger</li><li>Douglas Crockford: JSON founder, JavaScript architect at Yahoo!</li><li>L. Peter Deutsch: Author of Ghostscript, implementer of Smalltalk-80 at Xerox PARC and Lisp 1.5 on PDP-1</li><li>Brendan Eich: Inventor of JavaScript, CTO of the Mozilla Corporation</li><li>Brad Fitzpatrick: Writer of LiveJournal, OpenID, memcached, and Perlbal</li><li>Dan Ingalls: Smalltalk implementor and designer</li><li>Simon Peyton Jones: Coinventor of Haskell and lead designer of Glasgow Haskell Compiler</li><li>Donald Knuth: Author of The Art of Computer Programming and creator of TeX</li><li>Peter Norvig: Director of Research at Google and author of the standard text on AI</li><li>Guy Steele: Coinventor of Scheme and part of the Common Lisp Gang of Five, currently working on Fortress</li><li>Ken Thompson: Inventor of UNIX</li><li>Jamie Zawinski: Author of XEmacs and early Netscape/Mozilla hacker</li></ul>",
+    "author_id": [2],
+    "photo_url": [
+      "img/books/Coders-at-Work.jpg"
+    ],
+    "genre": "engineering"
+  },
+  {
+    "id": 3,
+    "name" : "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "description": "<p>Even bad code can function. But if code isn t clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn t have to be that way. </p><p>Noted software expert Robert C. Martin presents a revolutionary paradigm with Clean Code: A Handbook of Agile Software Craftsmanship . Martin has teamed up with his colleagues from Object Mentor to distill their best agile practice of cleaning code on the fly into a book that will instill within you the values of a software craftsman and make you a better programmer but only if you work at it. </p><p>What kind of work will you be doing? You ll be reading code lots of code. And you will be challenged to think about what s right about that code, and what s wrong with it. More importantly, you will be challenged to reassess your professional values and your commitment to your craft. </p><p>Clean Code is divided into three parts. The first describes the principles, patterns, and practices of writing clean code. The second part consists of several case studies of increasing complexity. Each case study is an exercise in cleaning up code of transforming a code base that has some problems into one that is sound and efficient. The third part is the payoff: a single chapter containing a list of heuristics and smells gathered while creating the case studies. The result is a knowledge base that describes the way we think when we write, read, and clean code. </p><p>Readers will come away from this book understanding</p><br></p>How to tell the difference between good and bad code How to write good code and how to transform bad code into good code How to create good names, good functions, good objects, and good classes How to format code for maximum readability How to implement complete error handling without obscuring code logic How to unit test and practice test-driven development This book is a must for any developer, software engineer, project manager, team lead, or systems analyst with an interest in producing better code.</p>",
+    "author_id": [3],
+    "photo_url": [
+      "img/books/clean_code.jpg"
+    ],
+    "genre": "engineering"
+  },
+  {
+    "id": 4,
+    "name" : "Ulysses",
+    "description": "<p>Selected by the Modern Library as one of the 100 best novels of all time</p><br/><p>Considered the greatest 20th century novel written in English, in this edition Walter Gabler uncovers previously unseen text. It is a disillusioned study of estrangement, paralysis and the disintegration of society.</p>",
+    "author_id": [4],
+    "photo_url": [
+      "img/books/ulysses.jpg"
+    ],
+    "genre": "novels"
+  },
+  {
+    "id": 5,
+    "name" : "Will Grayson, Will Grayson",
+    "description": "<p>Will Grayson meets Will Grayson. One cold night, in a most unlikely corner of Chicago, two strangers are about to cross paths. From that moment on, their world will collide and lives intertwine.</p><br/><p>It's not that far from Evanston to Naperville, but Chicago suburbanites Will Grayson and Will Grayson might as well live on different planets. When fate delivers them both to the same surprising crossroads, the Will Graysons find their lives overlapping and hurtling in new and unexpected directions. With a push from friends new and old - including the massive, and massively fabulous, Tiny Cooper, offensive lineman and musical theater auteur extraordinaire - Will and Will begin building toward respective romantic turns-of-heart and the epic production of history's most awesome high school musical.</p>",
+    "author_id": [5, 6],
+    "photo_url": [
+      "img/books/WillGrayson.jpg"
+    ],
+    "genre": "novels"
+  },
+  {
+    "id": 6,
+    "name" : "Zero Bugs and Program Faster",
+    "description": "<p>A book about programming, improving skill, and avoiding mistakes.</p><p>The author spent two years researching every bug avoidance technique she could find. This book contains the best of them.</p><p>If you want to program faster, with fewer bugs, and write more secure code, buy this book!</p> ",
+    "author_id": [1],
+    "photo_url": [
+      "img/books/ZeroBugs1.jpg",
+      "img/books/ZeroBugs2.jpg"
+    ],
+    "genre": "engineering"
+  },
+  {
+    "id": 7,
+    "name" : "The wedding girls",
+    "description": "<p><i>If a wedding marks the first day of the rest of your life, then the story starts with the dress.</i></p><p>It's 1936 and the streets of London's East End are grimy and brutal, but in one corner of Bethnal Green it is forever Hollywood . . .</p><p>Herbie Taylor's photography studio is nestled in the heart of bustling Green Street. Tomboy Stella and troubled Winnie work in Herbie's studio; their best friend and hopeless romantic Kitty works next door as an apprentice dressmaker. All life passes through the studio, wishing to capture that perfect moment in time.</p><p>Kitty works tirelessly to create magical bridal gowns, but with each stitch she wonders if she'll ever get a chance to wear a white dress. Stella and Winnie sprinkle a dusting of Hollywood glamour over happy newly-weds, but secretly dream of escaping the East End . . .</p><p>Community is strong on Green Street, but can it stand the ultimate test? As clouds of war brew on the horizon, danger looms over the East End. Will the Wedding Girls find their happy ever afters, before it's too late?</p>",
+    "author_id": [1],
+    "photo_url": [
+      "img/books/51xGNoJz9PL.jpg"
+    ],
+    "genre": "novels"
+  },
+  {
+    "id": 8,
+    "name" : "Practical Common Lisp",
+    "description": "<p>...it has a fresh view on the language and the examples in the later chapters are usable in your day-to-day work as a programmer. — Frank Buss, Lisp Programmer and Slashdot Contributor</p><p>If you're interested in Lisp as it relates to Python or Perl, and want to learn through doing rather than watching, <i>Practical Common Lisp</i> is an excellent entry point. — Chris McAvoy, Chicago Python Users Group</p> <p>Lisp is often thought of as an academic language, but it need not be. This is the first book that introduces Lisp as a language for the real world.<i>Practical Common Lisp</i> presents a thorough introduction to Common Lisp, providing you with an overall understanding of the language features and how they work. Over a third of the book is devoted to practical examples such as the core of a spam filter and a web application for browsing MP3s and streaming them via the Shoutcast protocol to any standard MP3 client software (e.g., iTunes, XMMS, or WinAmp). In other practical chapters, author Peter Seibel demonstrates how to build a simple but flexible in-memory database, how to parse binary files, and how to build a unit test framework in 26 lines of code.</p>",
+    "author_id": [2],
+    "photo_url": [
+      "img/books/51H-6LWWJ5L.jpg"
+    ],
+    "genre": "engineering"
+  },
+  {
+    "id": 9,
+    "name" : "The Dead",
+    "description": "James Joyce was a prominent Irish author and poet whose unorthodox style helped distinguish him as one of the most important writers of the 20th century. With classics such as Ulysses, Finnegans Wake, A Portrait of the Artist as a Young Man, and Dubliners, Joyce remains one of the most widely read authors in history. The Dead is a long short story from the Dubliners collection that is considered to be one of the greatest short stories in English literature.",
+    "author_id": [4],
+    "photo_url": [
+      "img/books/51bIluEhyKL.jpg"
+    ],
+    "genre": "novels"
+  }
+]
+

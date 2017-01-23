@@ -1,0 +1,38 @@
+[
+	{
+		"id": 1,
+		"full_name" : "Kate Thompson",
+    "photo_url": ["img/authors/Kate-Thompson.jpg"],
+    "biography": "<p><b>Kate Thompson</b> (born 10 November 1956) is a British-Irish writer best known for children's novels. Most of her children's fiction is fantasy but several of her books also deal with the consequences of genetic engineering.</p><p>Katharine Anna Thompson was born in Halifax, Yorkshire, the youngest child of the social historians and peace activists E. P. Thompson and Dorothy Towers. She has lived in Ireland since 1981 and many of her books are set there. She worked with horses and travelled in India, then settled in 1984 in Inagh in the west of Ireland with her partner Conor Minogue. They have two daughters, Cliodhna and Dearbhla. She is an accomplished fiddler with an interest in Irish traditional music, which is reflected in The New Policeman.</p><p>She won two major annual awards for The New Policeman (Bodley Head, 2005), set in modern Kinvara and the Irish mythological Tír na nÓg: the Guardian Children's Fiction Prize and the Whitbread Children's Book Award. It also won the Dublin Airport Authority Children's Book of the Year Award for 2005.</p><p>She has won the Bisto Children's Book of the Year Award four times, for The Beguilers, The Alchemist's Apprentice, Annan Water and The New Policeman. Creature of the Night was shortlisted for the 2008 Booktrust Teenage Prize and the 2009 Carnegie Medal.</p>"
+	},
+  {
+    "id": 2,
+    "full_name" : "Peter Seibe",
+    "photo_url": ["img/authors/Peter-Seibe.jpg"],
+    "biography": "<p><b>Peter Seibel</b> is either a writer turned programmer or programmer turned writer. After picking up an undergraduate degree in English and working briefly as a journalist, he was seduced by the web. In the early '90s he hacked Perl for Mother Jones magazine and Organic Online. He participated in the Java revolution as an early employee at WebLogic and later taught Java programming at UC Berkeley Extension. Peter is also one of the few second-generation Lisp programmers on the planet and was a childhood shareholder in Symbolics, Inc.</p><p>In 2003 he quit his job as the architect of a Java-based transactional messaging system to hack Lisp for a year. Instead he ended up spending two years writing a book, the Jolt Productivity Award winning Practical Common Lisp. His most recent book is Coders at Work, a collection of Q&A interviews with fifteen notable programmers and computer scientists.</p><p>When not writing books and programming computers Peter enjoys practicing tai chi. He live in Berkeley, California, with his wife Lily, daughters Amelia and Tabitha, and their dog Mahlanie.</p>"
+  },
+  {
+    "id": 3,
+    "full_name" : "Robert C. Martin",
+    "photo_url": ["img/authors/RobertMartin.jpg"],
+    "biography": "<p><b>Robert Cecil Martin</b> (colloquially known as Uncle Bob) is an American software engineer and author. He is a co-author of the Agile Manifesto. He now runs a consulting firm called Uncle Bob Consulting LLC and Clean Coders which hosts videos based on his experiences and books.</p>"
+  },
+  {
+    "id": 4,
+    "full_name" : "James Joyce",
+    "photo_url": ["img/authors/JAMES_JOYCE.jpg"],
+    "biography": "<p><b>James Augustine Aloysius Joyce</b> (2 February 1882 – 13 January 1941) was an Irish novelist and poet. He contributed to the modernist avant-garde and is regarded as one of the most influential and important authors of the 20th century.</p><p>Joyce is best known for Ulysses (1922), a landmark work in which the episodes of Homer's Odyssey are paralleled in an array of contrasting literary styles, perhaps most prominent among these the stream of consciousness technique he utilised. Other well-known works are the short-story collection Dubliners (1914), and the novels A Portrait of the Artist as a Young Man (1916) and Finnegans Wake (1939). His other writings include three books of poetry, a play, occasional journalism and his published letters.</p><p>Joyce was born in 41 Brighton Square, Rathgar, Dublin—about half a mile from his mother's birthplace in Terenure—into a middle-class family on the way down. A brilliant student, he excelled at the Jesuit schools Clongowes and Belvedere, despite the chaotic family life imposed by his father's alcoholism and unpredictable finances. He went on to attend University College Dublin.</p>"
+  },
+  {
+    "id": 5,
+    "full_name" : "John Green",
+    "photo_url": ["img/authors/320x486.jpg"],
+    "biography": "<p><b>John Michael Green</b> (born August 24, 1977) is an American author, vlogger, writer, producer, actor and editor. He won the 2006 Printz Award for his debut novel, Looking for Alaska, and his sixth novel, The Fault in Our Stars, debuted at number one on The New York Times Best Seller list in January 2012. The 2014 film adaptation opened at number one on the box office. In 2014, Green was included in Time magazine's list of The 100 Most Influential People in the World. Another film based on a Green novel, Paper Towns, was released on July 24, 2015.</p><p>Aside from being a novelist, Green is also well known for his YouTube ventures. In 2007, he launched the VlogBrothers channel with his brother, Hank Green. Since then, John and Hank have launched events such as Project for Awesome and VidCon and created a total of 11 online series, including Crash Course, an educational channel teaching literature, history, and science, later joined by courses in economics, US government, astronomy, politics, and philosophy.</p>"
+  },
+  {
+    "id": 6,
+    "full_name" : "David Levithan",
+    "photo_url": ["img/authors/levithan_0.jpg"],
+    "biography": "<p><b>David Levithan</b> (born September 7, 1972) is an American young adult fiction author and editor. His first book, Boy Meets Boy, was published by Knopf Books for Young Readers in 2003. He has written numerous works featuring strong male gay characters, most notably Boy Meets Boy and Naomi and Ely's No Kiss List.</p><p>At 19, Levithan received an internship at Scholastic Corporation where he began working on the The Baby-sitters Club series. Levithan still works for Scholastic as an editorial director. Levithan is also the founding editor of PUSH, a young-adult imprint of Scholastic Press focusing on new voices and new authors. PUSH publishes edgier material for young adults and is where Patricia McCormick got her start with 2002's Cut.</p><p>In an interview with Barnes & Noble, Levithan claimed that he learned how to write books that were both funny and touching from Judith Viorst's Alexander and the Terrible, Horrible, No Good, Very Bad Day. He continues to work as both a writer and editor saying, 'I love editing just as much, if not more than writing'. Levithan's first collaboration with Rachel Cohn, Nick and Norah's Infinite Playlist, was published in 2006 and adapted for the big screen in 2008. His novel Love is the Higher Law was published in August 2009 by Knopf Books for Young Readers.</p>"
+  }
+]
